@@ -7,7 +7,7 @@
 - Camera: Stores information on perspective, basis vectors, and, generates rays.
 - Scene: Stores all the scene objects and data. Handles physics and high-level pathtracing functions.
 - Object: Base class for orientable objects
-  - Uses 3D rotors to handle rotations without risk of gimbal lock.
+  - Uses quaternions to handle rotations without risk of gimbal lock.
 
 ## **Goals**
 
