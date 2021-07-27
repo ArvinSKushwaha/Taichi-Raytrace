@@ -1,4 +1,4 @@
-# Taichi-Pathtracer
+# Taichi-Raytrace
 
 ## **Code Design**
 
